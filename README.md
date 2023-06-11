@@ -1,1 +1,1 @@
-# africaquiz
+# africa_quiz
